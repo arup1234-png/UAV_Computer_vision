@@ -1,0 +1,16 @@
+path: C:/Users/nanda/OneDrive/Documents/UAV - Computer Vision/data/processed
+
+train: images/train
+val: images/val
+
+names:
+  0: Pedestrian
+  1: People
+  2: Bicycle
+  3: Car
+  4: Van
+  5: Truck
+  6: Tricycle
+  7: Awning Tricycle
+  8: Bus
+  9: Motor
